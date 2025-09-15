@@ -1,6 +1,6 @@
 # Olá, me chamo Isabella Probst (ou apenas Ella)! 👋
 
-📍 23 anos | São Paulo | Aspirante a desenvolvedora back-end           
+📍 23 anos | São Paulo | dev back-end em construção          
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🎨 Técnica em Comunicação Visual (criatividade, noções de Marketing e Design)                                                       
 💻 Apaixonada por tecnologia, resolver problemas, automações, aprender e aprimorar
